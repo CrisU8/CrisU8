@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:cristophernicolasurbinaherrera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-urbina/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Crist0urbina) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20-222222?style=flat-square&logo=gitbook&logoColor=white)](pages.com)
+[![Portfolio](https://img.shields.io/badge/-Resume%20-222222?style=flat-square&logo=gitbook&logoColor=white)](pages.com)
 
 </h3>
 <p align="center">
@@ -26,33 +26,16 @@
 | <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CrisU8&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /></p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisU8&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></p> |
     
 
-### ✍️ Random Dev Quote
+<h3 align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</h3>
 
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
   
  ![VisitorCount](https://profile-counter.glitch.me/{crisu8}/count.svg)  
   
-</a>
 
-
- 
- <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
- 
-<p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 ---

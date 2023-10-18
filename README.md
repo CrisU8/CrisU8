@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:cristophernicolasurbinaherrera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-urbina/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Crist0urbina) 
-[![Portfolio](https://img.shields.io/badge/-Resume%20-222222?style=flat-square&logo=gitbook&logoColor=white)](pages.com)
+<!-->[![Portfolio](https://img.shields.io/badge/-Resume%20-222222?style=flat-square&logo=gitbook&logoColor=white)]()
 
 </h3>
 <p align="center">
